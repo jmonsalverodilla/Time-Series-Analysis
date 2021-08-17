@@ -2,6 +2,7 @@
 
 ![](https://databricks.com/wp-content/uploads/2021/04/tsf-spark3-blog-image-6.png)
 
+Link to the library: [Prophet](https://facebook.github.io/prophet/)
 ## Usage
 
 0. Install [anaconda](https://www.anaconda.com/products/individual).
